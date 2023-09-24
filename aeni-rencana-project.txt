@@ -6,4 +6,3 @@ RENCANA PROJECT AENI
   * Menggunakan Vue
 - Membuat Website E Commerce
 - Membuat Website Pendaftaran
-- Membuat AI
