@@ -3,6 +3,7 @@ RENCANA PROJECT AENI
   * Menggunakan Laravel
   * Mengupload ke internet
   * Menggunakan React.js
+  * Menggunakan Vue
 - Membuat Website E Commerce
 - Membuat Website Pendaftaran
 - Membuat AI
