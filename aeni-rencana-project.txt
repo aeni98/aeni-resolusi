@@ -2,6 +2,6 @@ RENCANA PROJECT AENI
 - Membuat Perpustakaan Online
   * Menggunakan Laravel
   * Mengupload ke internet
+  * Menggunakan Bootstrap
 - Membuat Website E Commerce
 - Membuat Website Pendaftaran
-- Membuat AI
