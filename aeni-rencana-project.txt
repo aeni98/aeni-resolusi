@@ -4,3 +4,4 @@ RENCANA PROJECT AENI
   * Mengupload ke internet
 - Membuat Website E Commerce
 - Membuat Website Pendaftaran
+- Membuat AI
